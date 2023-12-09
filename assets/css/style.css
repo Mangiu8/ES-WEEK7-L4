@@ -1,0 +1,17 @@
+.custom-img {
+    height: 15rem;
+    object-fit: contain;
+}
+.prezzo {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.personalButton {
+    background-color: #7e8687;
+    border-color: #7e8687;
+    color: aliceblue;
+}
+.personalButton:hover {
+    background-color: #7e8687;
+}
